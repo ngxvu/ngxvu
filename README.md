@@ -1,18 +1,12 @@
 # 👋 Hi there, I'm Vũ!
 
-<div align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=ngxvu&color=brightgreen)
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=ngxvu&color=brightgreen)
 
 **I'm a backend developer with a strong passion for building scalable, maintainable systems.  
 I love designing APIs, working with databases, and optimizing system performance.  
 Currently, I'm diving deeper into distributed systems, DSA, and system design.**
 
----
-
-<div align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=ngxvu)
-</div>
+![trophy](https://github-profile-trophy.vercel.app/?username=ngxvu)
 
 ---
 
