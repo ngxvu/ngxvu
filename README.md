@@ -10,11 +10,31 @@ I'm a backend developer with a strong passion for building scalable, maintainabl
 I love designing APIs, working with databases, and optimizing system performance.  
 Currently, I'm diving deeper into distributed systems, DSA, and system design.
 
-- 🔧 Languages: **Golang**, Python, Javascript
-- 🛠️ Databases: **PostgreSQL**, MySQL, Redis
-- 📦 Tools: **Docker**, Git, CI/CD, Nginx
-- 🧩 Architecture: RESTful API, Microservices, Message Queues
-- 🌱 Currently learning: **Kubernetes** & **System Design**
+🔧 Languages  
+- ![Go](https://img.shields.io/badge/Go-Advanced-brightgreen) 🟢🟢🟢🟢⚪️ (Proficient)
+- ![Python](https://img.shields.io/badge/Python-Intermediate-yellow) Python 🟢🟢🟢⚪️⚪️ (Intermediate)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-lightgrey) 🟢🟢⚪️⚪️⚪️ (Basic)
+
+🛠️ Databases  
+- PostgreSQL 🟢🟢🟢🟢⚪️  
+- MySQL 🟢🟢🟢⚪️⚪️  
+- Redis 🟢🟢⚪️⚪️⚪️
+
+📦 Tools  
+- Docker 🟢🟢🟢🟢⚪️  
+- Git 🟢🟢🟢🟢🟢  
+- CI/CD 🟢🟢🟢⚪️⚪️  
+- Nginx 🟢🟢⚪️⚪️⚪️
+
+🧩 Architecture  
+- RESTful API 🟢🟢🟢🟢⚪️  
+- Microservices 🟢🟢🟢⚪️⚪️  
+- Message Queues 🟢🟢⚪️⚪️⚪️
+
+🌱 Currently Learning  
+- Kubernetes 🟢🟢⚪️⚪️⚪️  
+- System Design 🟢🟢⚪️⚪️⚪️
+
 
 ---
 
