@@ -1,19 +1,18 @@
 # 👋 Hi there, I'm Vũ!
 
-🎯 Backend Developer | Golang Enthusiast | Clean Code Advocate
-
----
-
-## 🚀 About Me
+<div align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=ngxvu&color=brightgreen)
+</div>
 
 **I'm a backend developer with a strong passion for building scalable, maintainable systems.  
 I love designing APIs, working with databases, and optimizing system performance.  
 Currently, I'm diving deeper into distributed systems, DSA, and system design.**
 
 ---
-![trophy](https://github-profile-trophy.vercel.app/?username=ngxvu)
----
-Dưới đây là phiên bản **gọn hơn** của toàn bộ phần `Tech Stack`, sử dụng `badge icon` kết hợp với `progress bar`, giữ được tính chuyên nghiệp và dễ nhìn trong GitHub README:
+
+<div align="center">
+  ![trophy](https://github-profile-trophy.vercel.app/?username=ngxvu)
+</div>
 
 ---
 
@@ -22,13 +21,13 @@ Dưới đây là phiên bản **gọn hơn** của toàn bộ phần `Tech Stac
 <table>
   <thead>
     <tr>
-      <th>👨‍💻 Languages</th>
-      <th>🧠 Backend & API</th>
-      <th>🛢️ Databases</th>
-      <th>🐳 DevOps & Tools</th>
-      <th>☁️ Cloud</th>
-      <th>🌐 Frontend (Basic)</th>
-      <th>🌱 Learning</th>
+      <th>Languages</th>
+      <th>Backend</th>
+      <th>Databases</th>
+      <th>DevOps & Tools</th>
+      <th>Cloud</th>
+      <th>Frontend (Basic)</th>
+      <th>Learning</th>
     </tr>
   </thead>
   <tbody>
@@ -83,9 +82,10 @@ Dưới đây là phiên bản **gọn hơn** của toàn bộ phần `Tech Stac
 
 ## 📫 Let's Connect!
 
-- 📧 Email: [xvung126@gmail.com]
-- 💼 LinkedIn: [https://linkedin.com/in/ngxvu](https://linkedin.com/in/ngxvu)
-- 🐙 GitHub: [https://github.com/ngxvu](https://github.com/ngxvu)
+- [Email](mailto:xvung126@gmail.com) ![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/ngxvu)) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+- [GitHub](https://github.com/ngxvu) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
+
 
 ---
 
