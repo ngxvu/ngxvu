@@ -79,9 +79,7 @@
 
 ## Connect with me:
 
-- <a href="mailto:xvung126@gmail.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
-- <a href="https://linkedin.com/in/ngxvu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-- <a href="https://github.com/ngxvu"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:xvung126@gmail.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"></a> <a href="https://linkedin.com/in/ngxvu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://github.com/ngxvu"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 
 
 ---
