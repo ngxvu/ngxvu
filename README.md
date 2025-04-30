@@ -81,9 +81,9 @@
 ---
 | 🏢 Organization | 📄 Certification |
 |----------------|------------------|
-| ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | (https://www.udemy.com/certificate/UC-a8746f5c-c096-42b0-b2d2-c40054386c95/) |
-| ![edX](https://img.shields.io/badge/-edX-02262B?style=flat&logo=edx&logoColor=white) | (https://courses.edx.org/certificates/ea9924b8fcaf4e10820fbeb84ff5b745) |
-| ![CS50](https://img.shields.io/badge/-CS50-000000?style=flat&logo=harvard-university&logoColor=white) | (https://certificates.cs50.io/9fc47e44-f229-4020-a274-3840dcf57e62.pdf?size=letter) |
+| ![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | https://www.udemy.com/certificate/UC-a8746f5c-c096-42b0-b2d2-c40054386c95 |
+| ![edX](https://img.shields.io/badge/-edX-02262B?style=flat&logo=edx&logoColor=white) | https://courses.edx.org/certificates/ea9924b8fcaf4e10820fbeb84ff5b745 |
+| ![CS50](https://img.shields.io/badge/-CS50-000000?style=flat&logo=harvard-university&logoColor=white) | https://certificates.cs50.io/9fc47e44-f229-4020-a274-3840dcf57e62.pdf?size=letter |
 
 ---
 
