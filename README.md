@@ -8,9 +8,9 @@
 
 I'm a backend developer with a strong passion for building scalable, maintainable systems.  
 I love designing APIs, working with databases, and optimizing system performance.  
-Currently, I'm diving deeper into distributed systems, message queues (Kafka/RabbitMQ), and system design.
+Currently, I'm diving deeper into distributed systems, DSA, and system design.
 
-- 🔧 Languages: **Golang**, Python, Java
+- 🔧 Languages: **Golang**, Python, Javascript
 - 🛠️ Databases: **PostgreSQL**, MySQL, Redis
 - 📦 Tools: **Docker**, Git, CI/CD, Nginx
 - 🧩 Architecture: RESTful API, Microservices, Message Queues
