@@ -22,10 +22,10 @@ Dưới đây là phiên bản **gọn hơn** của toàn bộ phần `Tech Stac
 ### 👨‍💻 Programming Languages
 
 <img src="https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white" height="20"/> Golang  
-<progress value="80" max="100"></progress>  
+<progress value="80" max="100"></progress>
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="20"/> Python  
-<progress value="60" max="100"></progress>  
+<progress value="60" max="100"></progress>
 
 ---
 
