@@ -11,7 +11,7 @@
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ngxvu?theme=light)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ngxvu?theme=light) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngxvu&layout=compact&theme=default)
 
 ---
 
