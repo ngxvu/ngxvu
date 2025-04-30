@@ -9,9 +9,11 @@
 
 ---
 
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/ngxvu?theme=light)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ngxvu?theme=light)
 
-## 🧰 Tech Stack Overview
+---
+
+## Tech Stack Overview
 
 <table>
   <thead>
