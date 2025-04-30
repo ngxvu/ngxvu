@@ -9,7 +9,7 @@
 
 ---
 
-- [LeetCode](https://leetcode.com/ngxvu) ![LeetCode](https://img.shields.io/badge/-LeetCode-FE7A16?style=flat&logo=leetcode&logoColor=white)
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/ngxvu?theme=light)
 
 ## 🧰 Tech Stack Overview
 
