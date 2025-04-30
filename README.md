@@ -79,9 +79,9 @@
 
 ## 📫 Let's Connect!
 
-- [Email](mailto:xvung126@gmail.com) ![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/ngxvu)) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
-- [GitHub](https://github.com/ngxvu) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)
+- ![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white) [Email](mailto:xvung126@gmail.com)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/ngxvu))
+- ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white) [GitHub](https://github.com/ngxvu) 
 
 
 ---
