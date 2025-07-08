@@ -12,10 +12,6 @@
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ngxvu)
-
----
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ngxvu?theme=light) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngxvu&layout=compact&theme=default)
 
 ---
