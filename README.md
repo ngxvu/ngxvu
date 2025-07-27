@@ -6,6 +6,7 @@
 <a href="https://github.com/ngxvu"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://ngxvu.space"><img src="https://img.shields.io/badge/-Website Portfolio-1877F2?style=flat&logo=internet-explorer&logoColor=white" alt="Badger"></a>
 <a href="https://facebook.com/ngxvu"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://facebook.com/ngxvu"><img src="https://img.shields.io/badge/-Scratch-0078D4?style=flat&logo=scratch&logoColor=white" alt="Scratch"></a>
 
 
 **I'm a backend developer with a strong passion for building scalable, maintainable systems, I love designing APIs, working with databases, and optimizing system performance, currently, I'm diving deeper into distributed systems, DSA, and system design.**
