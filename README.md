@@ -1,5 +1,5 @@
 
-<h1 style="color:#00AEEF;">Hi there, I'm Vũ!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+V%C5%A9)](https://git.io/typing-svg)
 
 <a href="mailto:email@ngxvu.space"><img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
 <a href="https://linkedin.com/in/ngxvu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
