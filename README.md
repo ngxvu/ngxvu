@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&color=4090F7&background=FFFFFF00&multiline=false&random=true&width=435&lines=It%27s+V%C5%A9!+Nice+to+meet+you+%F0%9F%99%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&color=4090F7&background=FFFFFF00&multiline=false&random=true&width=435&lines=On the way to defeat the FINAL BOSS OF WINTER ARC)](https://git.io/typing-svg)
 
 <a href="mailto:email@ngxvu.space"><img src="https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
 <a href="https://linkedin.com/in/ngxvu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
